@@ -1,10 +1,14 @@
 
 .center{
   width: 100vw;
-
   margin: 20% auto;
-    text-align: center;
+  text-align: center;
 }
 #doge{
 font-size: 40px;
+
+}
+#iconDoge{
+  color:blue;
+  display: none;
 }
