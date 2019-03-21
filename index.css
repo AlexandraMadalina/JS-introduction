@@ -1,14 +1,27 @@
 
 .center{
-  width: 100vw;
-  margin: 20% auto;
+  width: 500px;
+  margin: 0 auto;
   text-align: center;
+  position:relative;
+margin-top: 10%;
 }
+
 #doge{
 font-size: 40px;
 
 }
 #iconDoge{
-  color:blue;
+  color:#38291c;
   display: none;
+  
+}
+
+img{
+  display:none;
+  width:auto;
+  height:auto;
+position:absolute;
+top:0px;
+z-index: -1;
 }
