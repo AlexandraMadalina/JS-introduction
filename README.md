@@ -31,3 +31,12 @@ To make the button transform into a dog icon on hover, I added the `onmouseover`
 
 
 To make a picture appear when clicking the icon I added the `onclick` event to the icon and change the display property of the already existing image, to `display: block`. To make the image disappear on the next click I used `If...else` reasoning. If the image display property is `none` then it will change to `block`,  if not, it will change to `none`. That way, every time the icon get's clicked, the image will shift between those values.
+
+**Here are some link that I've used to help me with this exercices:**
+
+
+[Sololearn](https://www.sololearn.com/)
+
+
+[www.w3schools](https://www.w3schools.com/)
+
