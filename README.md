@@ -3,7 +3,9 @@
 This is a class exercise created by our coach [Lambelin Rafael](https://github.com/rafaello104)
 
 
-I follow this exercises during my training as JuniorWeb Developer at BeCode in maart 
+I follow this exercises during my training as JuniorWeb Developer at BeCode in maart 2019.
+This is our initiation exercise in Javascript to manipulate DOM elements.
+
 ## Objectives
 
 - Learn how to target elements
