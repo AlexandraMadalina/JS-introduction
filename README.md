@@ -23,7 +23,7 @@ This is our initiation exercise in Javascript to manipulate DOM elements.
 - When you click the button a picture of a [doge](http://www.stickpng.com/cat/memes/doge?page=1) should show up somewhere on the page
 - When you click the button again, the picture should disappear
 
-**My solutions:**
+##My solutions:##
 
 To change the text of the button change when the page finishes loading, I have used `window.onload` function , I identified the button by his id and changed it's value.
 
