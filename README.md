@@ -22,3 +22,5 @@ This is our initiation exercise in Javascript to manipulate DOM elements.
 - When you hover over the button "Woof!" should disappear and a little doggo icon should appear instead
 - When you click the button a picture of a [doge](http://www.stickpng.com/cat/memes/doge?page=1) should show up somewhere on the page
 - When you click the button again, the picture should disappear
+
+To change the text of the button when the page finishes loading I have used window.onload function , I identified the button by his id and changed it value.
