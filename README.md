@@ -40,5 +40,5 @@ To make a picture appear when clicking the icon I added the `onclick` event to t
 
 [www.w3schools](https://www.w3schools.com/)
 
-** Results available [here](https://alexandramadalina.github.io/Doge-JS-Start/)
+**Results available [here](https://alexandramadalina.github.io/Doge-JS-Start/)
 
